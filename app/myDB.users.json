@@ -1,0 +1,10 @@
+{ 
+    "_id" : ObjectId("5a6af3797b0b5062795798c5"), 
+    "name" : "jack", 
+    "paw" : 1.0
+}
+{ 
+    "_id" : ObjectId("5a6afbb57b0b5062795798de"), 
+    "name" : "lucy", 
+    "paw" : 2.0
+}
